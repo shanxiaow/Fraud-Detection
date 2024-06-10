@@ -1,5 +1,5 @@
 # Fraud Detection
-Credit card Fraud Detection (Binary Classification) using Decision Tree and Support Vector Machine 
+Credit Card Fraud Detection (Binary Classification) using Decision Tree and Support Vector Machine 
 
 ### Contents:
 - Obtain dataset from Kaggle
